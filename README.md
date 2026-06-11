@@ -215,9 +215,9 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| 🎓 **BTech — Computer Science** | Tirumala Engineering College | 2022 – 2026 | In Progress |
-| 📘 **Intermediate (MPC)** | Vagdevi Junior College | 2020 – 2022 | — |
-| 🏫 **High School Diploma** | AMG India International | 2019 – 2020 | — |
+| 🎓 **BTech — Computer Science** | Tirumala Engineering College | 2022 – 2026 | 7.5 |
+| 📘 **Intermediate (MPC)** | Vagdevi Junior College | 2020 – 2022 | 7.8 |
+| 🏫 **High School Diploma** | AMG India International | 2019 – 2020 | 7.8 |
 
 </div>
 
